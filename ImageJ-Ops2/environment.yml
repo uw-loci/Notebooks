@@ -1,0 +1,13 @@
+name: scijavaops
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - beakerx
+  - jupyter_contrib_nbextensions
+  - numpy
+  - openjdk=11
+  - pyimagej
+  - python
+  - rise
+  - scikit-image
